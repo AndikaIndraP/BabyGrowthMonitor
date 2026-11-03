@@ -1,0 +1,8 @@
+.env
+*.db
+venv/
+__pycache__/
+*.pyc
+who_lms/*.csv
+.vscode/
+.idea/
